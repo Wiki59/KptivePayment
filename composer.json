@@ -1,5 +1,5 @@
 {
-    "name": "lelivrescolaire/payment-sips-bundle",
+    "name": "lelivrescolaire/kptive-payment-sips-bundle",
     "type": "symfony-bundle",
     "description": "Payment Bundle providing access to the ATOS SIPS solution",
     "keywords": ["payment", "atos", "sips", "mercanet", "cyberplus", "elysnet", "scellius","sogenactif", "webaffaires", "sherlocks", "citelis", "accord"],
